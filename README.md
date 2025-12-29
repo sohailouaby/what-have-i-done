@@ -9,6 +9,8 @@ enemy logic(lookAt, chase, shooting)
 
 collections(coins, etc.)
 
+Casts like Raycast, boxcast and spherecast.
+
 ## Editor for 2D
 
 physics testing
